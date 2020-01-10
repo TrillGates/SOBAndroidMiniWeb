@@ -222,7 +222,7 @@ xx范围：0~16
 接口：
 
 ```
-/multiFiles/upload
+/file/params/upload
 ```
 
 参数file，文件类型
