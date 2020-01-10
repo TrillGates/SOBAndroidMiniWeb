@@ -326,3 +326,36 @@ fileName的取值为：[0,16]
 
 
 
+# 登录接口
+
+方法：post
+
+接口
+
+
+
+```shell
+/login
+```
+
+参数：
+
+userName 用户名
+
+参数
+
+password 密码
+
+返回结果：
+
+```json
+{
+    "success": true,
+    "code": 10000,
+    "message": "这是你提交上来的数据：拉大锯 - 12938471902387",
+    "data": "2a142e7c-754e-413d-a662-77c27abc097c"
+}
+```
+
+
+
